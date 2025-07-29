@@ -2,8 +2,7 @@
   "name": "reactcicd",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "home": "https://github.com/GOGIKARVIGNESH/reactcicd.git",
+  "type": "module","home":"https://github.com/GOGIKARVIGNESH/reactcicd.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
